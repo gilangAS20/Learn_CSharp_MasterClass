@@ -4,7 +4,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Excercises", "Excercises", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{33D7FEEA-79D7-496C-B0C4-1452FF41E769}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCreateproject2", "TestCreateproject2\TestCreateproject2.csproj", "{A482088A-F6BC-4025-99C3-94065BD6BC6A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplicitExplicitVariables", "ImplicitExplicitVariables\ImplicitExplicitVariables.csproj", "{A482088A-F6BC-4025-99C3-94065BD6BC6A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Quiz", "Quiz", "{0C5962A1-56E0-4E80-958E-7DD7841D87B9}"
 EndProject
