@@ -7,7 +7,6 @@ public static class Messages
     /// </summary>
     public static void ShowMenu()
     {
-        Console.WriteLine("Hello!");
         Console.WriteLine("What do you want to do?");
         Console.WriteLine("[S]ee all TODOs");
         Console.WriteLine("[A]dd a TODO");
