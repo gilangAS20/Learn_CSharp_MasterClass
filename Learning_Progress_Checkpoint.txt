@@ -1,3 +1,7 @@
 5/11/2026
 
 38. Assignment - Simple Calculator - Description and requirements
+
+9/11/2026
+belajar SQL sampai OR
+https://www.w3schools.com/sql/sql_not.asp
