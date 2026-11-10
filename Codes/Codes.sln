@@ -22,6 +22,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Out_Keyword", "Out_Keyword\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryParse_Method", "TryParse_Method\TryParse_Method.csproj", "{F23E1E45-24E5-4715-BAA6-0BA2AF929DB8}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Learn_Interview", "Learn_Interview", "{7B5D8B3C-FDB5-4719-A01C-6B6BA8B56896}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interview_1", "Interview_1\Interview_1.csproj", "{B8EAD9AD-8C6D-48DE-AFB8-8FCF133D664B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +41,7 @@ Global
 		{419D110F-372E-4CFD-90CD-DEAFCB5CAC67} = {9B9EF239-5F2D-4668-B75F-1158E1632CD3}
 		{A1D7D7C1-1D67-491C-BDD8-D17F2B422B6B} = {9B9EF239-5F2D-4668-B75F-1158E1632CD3}
 		{F23E1E45-24E5-4715-BAA6-0BA2AF929DB8} = {9B9EF239-5F2D-4668-B75F-1158E1632CD3}
+		{B8EAD9AD-8C6D-48DE-AFB8-8FCF133D664B} = {7B5D8B3C-FDB5-4719-A01C-6B6BA8B56896}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{33D7FEEA-79D7-496C-B0C4-1452FF41E769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -75,5 +80,9 @@ Global
 		{F23E1E45-24E5-4715-BAA6-0BA2AF929DB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F23E1E45-24E5-4715-BAA6-0BA2AF929DB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F23E1E45-24E5-4715-BAA6-0BA2AF929DB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8EAD9AD-8C6D-48DE-AFB8-8FCF133D664B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8EAD9AD-8C6D-48DE-AFB8-8FCF133D664B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8EAD9AD-8C6D-48DE-AFB8-8FCF133D664B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8EAD9AD-8C6D-48DE-AFB8-8FCF133D664B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
