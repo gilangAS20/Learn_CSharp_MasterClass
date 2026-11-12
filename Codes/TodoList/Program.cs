@@ -45,6 +45,11 @@ class Program
 
                 case "R":
                 case "r":
+                    toDo.SeeTodo();
+                    int idInput;
+                    Console.WriteLine("Remove item by ID:");
+                    idInput = int.Parse(Console.ReadLine());
+                    toDo.RemoveTodo(idInput);
                     break;
 
                 case "E":

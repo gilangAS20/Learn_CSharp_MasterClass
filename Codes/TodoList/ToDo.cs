@@ -54,6 +54,7 @@ public class ToDo
         if (_todoItem.ContainsKey(id))
         {
             _todoItem.Remove(id);
+            Console.WriteLine($"Remove TODO with id {id}");
         }
         else
         {
